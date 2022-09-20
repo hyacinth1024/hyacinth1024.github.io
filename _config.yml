@@ -9,11 +9,11 @@ cover_image: /bg.jpeg
 
 # Gems
 plugins:
-#   - jekyll-gist
-#   - jekyll-paginate
-#   - jekyll-seo-tag
-#   - jekyll-feed
-#   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Optimize Jekyll
 exclude:
