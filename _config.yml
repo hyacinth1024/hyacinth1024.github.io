@@ -1,5 +1,5 @@
 # Setup
-title: hyacinth1024
+title: 王彪
 description: my blogs
 url: https://hyacinth1024.github.io
 avatar: /avatar.jpeg
@@ -9,11 +9,11 @@ cover_image: /bg.jpeg
 
 # Gems
 plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-paginate
+#   - jekyll-seo-tag
+#   - jekyll-feed
+#   - jekyll-sitemap
 
 # Optimize Jekyll
 exclude:
